@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pongnet", "pongnet.csproj", "{265C6D31-C52A-48B5-AC75-889DDC13E9AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{265C6D31-C52A-48B5-AC75-889DDC13E9AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{265C6D31-C52A-48B5-AC75-889DDC13E9AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{265C6D31-C52A-48B5-AC75-889DDC13E9AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{265C6D31-C52A-48B5-AC75-889DDC13E9AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
